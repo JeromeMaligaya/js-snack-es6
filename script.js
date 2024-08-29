@@ -53,3 +53,5 @@ console.log('grades > 70 && id > 120',targetStudents)
 const studs = students.filter(stud => stud.grade > 70 && stud.id > 120)
 console.log('grades > 70 && id > 120',studs)
 */
+
+//esercizio finito
