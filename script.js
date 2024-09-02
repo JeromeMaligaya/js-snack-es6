@@ -119,3 +119,5 @@ const pointsAndFouls = teams.map( element => {
 })
 // stampo in console il nuovo array
 console.log(pointsAndFouls)
+
+// esercizio finito
